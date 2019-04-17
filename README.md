@@ -1,13 +1,14 @@
 # LispEvaluatorFlexAndBison
 Lisp evaluator for addition and multiplication implemented using Flex and Bison
 
-Invoke the makefile to compile
 
 ### Prerequisites
 
 You must have Flex and Bison installed on your Unix system. 
 
 ### Instructions
+
+Invoke the makefile to compile
 
 ```
 make -B
